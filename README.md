@@ -1,6 +1,7 @@
+*This project has been created as part of the 42 curriculum by segribas.*
+
 # Born2beRoot
 
-*This project has been created as part of the 42 curriculum by segribas.*
 
 ## Description
 
